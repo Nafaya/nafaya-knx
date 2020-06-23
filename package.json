@@ -1,0 +1,19 @@
+{
+  "name": "nafaya-knx",
+  "version": "1.0.0",
+  "description": "Library for interaction with KNX systems(KNXNET/IP-interfaces)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "knx"
+  ],
+  "author": "Nafaya",
+  "license": "ISC",
+  "dependencies": {
+    "buffer": "^5.6.0",
+    "events": "^3.1.0",
+    "underscore": "^1.10.2"
+  }
+}
